@@ -17,6 +17,9 @@ Database Installation: https://bitpredator.github.io/bptdevelopment/docs/empiret
 
 Server installation procedure: https://bitpredator.github.io/bptdevelopment/docs/empiretown/install-server
 
+For a tutorial in French on how to start the server on a Windows virtual machine, see [TUTORIEL_WINDOWS_VM_FR.md](TUTORIEL_WINDOWS_VM_FR.md).
+This guide includes detailed steps for preparing the MySQL database.
+
 This program is distributed in the hope that it will be useful, WITHOUT ANY WARRANTY; without even the implied warranty OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License with this program. If not, see http://www.gnu.org/licenses/.
